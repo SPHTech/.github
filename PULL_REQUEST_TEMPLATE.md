@@ -33,7 +33,6 @@ _Delete this section if you do **not** have major or architecture changes_
 Select each of the following if it is relevant to this PR:
 
 - [ ] New System or Product?
-- [ ] New Font?
 - [ ] Change to CDN Rule(s)?
 - [ ] Abnormal roll-out complexity or risk?
 - [ ] Abnormal roll-back complexity or risk?
